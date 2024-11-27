@@ -1,0 +1,25 @@
+html --> hypertext markup langugae
+        - link - to another hypertext markup
+
+founder of html ? 
+- Tim berner's lee ---> 1991
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (jan ,1997)
+html 4 --> (Dec , 1997) - 4.2 --> 2000
+html 5 --> 2014 - 5.2 --> 2017
+
+Html use?
+-To create a static structure of website or webpages.
+
+html extension
+.html , .htm 
+
+
+where html run?
+browser / client side
+
+
+programming language 
+-SERVER SIDE
